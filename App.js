@@ -7,10 +7,7 @@ const App = () => {
 
   return (
     <>
-
       <ScrollView >
-
-
         <Text style={styles.titulo}>Platillos Salvadoreños</Text>
         <View>
           <View>
